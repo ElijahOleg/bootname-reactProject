@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 node_modules
+=======
+/node_modules
+>>>>>>> 35c975bdae7cdd7b8f36c4254acfbef72e3de702
 /build
